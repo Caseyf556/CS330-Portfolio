@@ -1,4 +1,3 @@
-# e.montalvo-ruiz-snhu.edu
 CS‑330 Final Project Reflection
 How I Approach Designing Software
 My approach to software design starts with breaking a problem into smaller, understandable pieces. I focus on identifying the core requirements, then mapping out how each part of the system should behave before I ever write code. Working on this project reinforced the value of planning the structure of a program early, especially when dealing with graphics, where objects, transformations, textures, and user interaction all depend on clear organization.
