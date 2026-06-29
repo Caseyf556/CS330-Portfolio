@@ -47,4 +47,4 @@ How Computational Graphics Helps My Professional Path
 These skills open doors in game development, simulation, virtual environments, scientific visualization, and technical software engineering.
 
 ### 3D Scene ZIP (Google Drive Link)
-https://drive.google.com/your_zip_link_here
+https://drive.google.com/file/d/1QTYCD7R9uawmy6kbLDgdEQ7CbrO_yzTb/view?usp=sharing
